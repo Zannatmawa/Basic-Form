@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zannatmawa/Basic-Form/static/css/main.5f28004f.css",
+    "main.js": "/Zannatmawa/Basic-Form/static/js/main.8b2a4c49.js",
+    "static/js/453.b461aa77.chunk.js": "/Zannatmawa/Basic-Form/static/js/453.b461aa77.chunk.js",
+    "static/media/logo.svg": "/Zannatmawa/Basic-Form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Zannatmawa/Basic-Form/index.html",
+    "main.5f28004f.css.map": "/Zannatmawa/Basic-Form/static/css/main.5f28004f.css.map",
+    "main.8b2a4c49.js.map": "/Zannatmawa/Basic-Form/static/js/main.8b2a4c49.js.map",
+    "453.b461aa77.chunk.js.map": "/Zannatmawa/Basic-Form/static/js/453.b461aa77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f28004f.css",
+    "static/js/main.8b2a4c49.js"
+  ]
+}
